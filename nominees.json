@@ -1,0 +1,354 @@
+{
+    "categories": [
+        {
+            "Title": "Best Picture",
+            "Nominees": [
+                {
+                    "title": "Echoes of Eternity",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Shadows in the Wind",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Fragments of Tomorrow",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "The Last Horizon",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Whispers of the Past",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Director",
+            "Nominees": [
+                {
+                    "title": "Aurora's Fall",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Crimson Tide",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Beyond the Stars",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Veil of Secrets",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Silent Echo",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Actor",
+            "Nominees": [
+                {
+                    "title": "Golden Mirage",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Frozen Ashes",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Silver Lining",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Blazing Skies",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Whispering Shadows",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Actress",
+            "Nominees": [
+                {
+                    "title": "Broken Wings",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Moonlit Path",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Emerald Dreams",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Crimson Horizon",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Veiled Truths",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Supporting Actor",
+            "Nominees": [
+                {
+                    "title": "Hidden Realms",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Golden Echoes",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Scarlet Veil",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Fading Lights",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Shattered Illusions",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Supporting Actress",
+            "Nominees": [
+                {
+                    "title": "Distant Shores",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Velvet Skies",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Twilight's Embrace",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Silent Whispers",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Crimson Petals",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Original Screenplay",
+            "Nominees": [
+                {
+                    "title": "Fragments of Light",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Lost Horizons",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Silent Rain",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Golden Skies",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Echoing Dreams",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Adapted Screenplay",
+            "Nominees": [
+                {
+                    "title": "Veil of Time",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Frozen Echo",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Crimson Secrets",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Shattered Skies",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Hidden Echoes",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Cinematography",
+            "Nominees": [
+                {
+                    "title": "Twilight Shadows",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Echoes of Silence",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Blazing Dawn",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Veiled Horizons",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Shimmering Lights",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best Animated Feature",
+            "Nominees": [
+                {
+                    "title": "Dreamweavers",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "The Enchanted Forest",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Whispering Winds",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Starlight Adventure",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Crimson Tales",
+                    "country": "",
+                    "movie": "",
+                    "imgsrc": ""
+                }
+            ]
+        }
+    ]
+}
