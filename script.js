@@ -1,20 +1,22 @@
 fetch('nominees.json')
     .then(response => response.json())
-    .then(data => startNomineeSelection(data));
+    .then(data => displayAllCategories(data));
 
-let currentCategoryIndex = 0;
 let userChoices = {};
+let totalCategories = 0;
 
-function startNomineeSelection(data) {
-    const categories = data.categories;
-    const nextButton = document.getElementById("next-button");
-    const submitButton = document.getElementById("submit-button");
+function displayAllCategories(data) {
+    const categoriesContainer = document.getElementById("categories-container");
+    totalCategories = data.categories.length;
+    updateSelectionIndicator();
 
-    function displayCategory() {
-        const category = categories[currentCategoryIndex];
-        document.getElementById("category-title").textContent = `Category: ${category.Title}`;
-        const nomineesGrid = document.getElementById("nominees-grid");
-        nomineesGrid.innerHTML = "";
+    data.categories.forEach(category => {
+        const categorySection = document.createElement("div");
+        categorySection.className = "category-section";
+        categorySection.innerHTML = `<h2>${category.Title}</h2>`;
+
+        const nomineesGrid = document.createElement("div");
+        nomineesGrid.className = "nominees-grid";
 
         category.Nominees.forEach(nominee => {
             const nomineeCard = document.createElement("div");
@@ -23,45 +25,60 @@ function startNomineeSelection(data) {
                 <img src="${nominee.imgsrc || '/img/default.png'}" alt="${nominee.title}">
                 <p>${nominee.title}</p>
             `;
-            nomineeCard.addEventListener("click", () => selectNominee(nomineeCard, category.Title, nominee.title));
+
+            nomineeCard.addEventListener("click", () => {
+                selectNominee(nomineeCard, category.Title, nominee);
+            });
+
             nomineesGrid.appendChild(nomineeCard);
         });
-    }
 
-    function selectNominee(cardElement, category, nominee) {
-        // Deselect any previously selected card
-        document.querySelectorAll('.nominee-card').forEach(card => card.classList.remove('selected'));
-        
-        // Highlight the selected card
-        cardElement.classList.add('selected');
-
-        // Store the user's choice
-        userChoices[category] = nominee;
-
-        // Show the next button
-        nextButton.style.display = "block";
-    }
-
-    nextButton.addEventListener("click", () => {
-        currentCategoryIndex++;
-        nextButton.style.display = "none";
-        if (currentCategoryIndex < categories.length) {
-            displayCategory();
-        } else {
-            document.getElementById("category-title").textContent = "All categories completed!";
-            document.getElementById("nominees-grid").innerHTML = `
-                <p>Your choices:</p>
-                <pre>${JSON.stringify(userChoices, null, 2)}</pre>
-            `;
-            submitButton.style.display = "block";
-            nextButton.style.display = "none";
-        }
+        categorySection.appendChild(nomineesGrid);
+        categoriesContainer.appendChild(categorySection);
     });
 
-    submitButton.addEventListener("click", () => {
+    document.getElementById("submit-button").addEventListener("click", () => {
         alert("Your choices have been submitted!");
         console.log(userChoices);
     });
+}
 
-    displayCategory();
+function selectNominee(cardElement, category, nominee) {
+    const categorySection = cardElement.closest('.category-section');
+    categorySection.querySelectorAll('.nominee-card').forEach(card => card.classList.remove('selected'));
+
+    cardElement.classList.add('selected');
+    userChoices[category] = nominee;
+
+    updateSelectionIndicator();
+    updateSelectedThumbnails();
+    toggleSubmitButton();
+}
+
+function updateSelectionIndicator() {
+    const selectedCount = Object.keys(userChoices).length;
+    document.getElementById("selection-indicator").textContent = `Selected: ${selectedCount}/${totalCategories}`;
+}
+
+function updateSelectedThumbnails() {
+    const thumbnailsContainer = document.getElementById("selected-thumbnails");
+    thumbnailsContainer.innerHTML = "";
+
+    Object.values(userChoices).forEach(nominee => {
+        const thumbnail = document.createElement("img");
+        thumbnail.src = nominee.imgsrc || '/img/default.png';
+        thumbnail.alt = nominee.title;
+        thumbnailsContainer.appendChild(thumbnail);
+    });
+}
+
+function toggleSubmitButton() {
+    const submitButton = document.getElementById("submit-button");
+    if (Object.keys(userChoices).length === totalCategories) {
+        submitButton.disabled = false;
+        submitButton.classList.add("enabled");
+    } else {
+        submitButton.disabled = true;
+        submitButton.classList.remove("enabled");
+    }
 }

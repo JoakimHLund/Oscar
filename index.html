@@ -4,16 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pick a Nominee</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to the new CSS -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Pick Your Nominee</h1>
-    <div id="category-title"></div>
-    <div class="grid" id="nominees-grid"></div>
-    <div class="buttons">
-        <button id="next-button" style="display:none;">Next Category</button>
-        <button id="submit-button" style="display:none;">Submit Choices</button>
+    <h1>Pick Your Nominees</h1>
+    <div id="categories-container"></div>
+
+    <!-- Sticky Footer -->
+    <div class="footer">
+        <div id="selection-indicator">Selected: 0/0</div>
+        <div class="selected-thumbnails" id="selected-thumbnails"></div>
+        <button id="submit-button" disabled>Submit Choices</button>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
