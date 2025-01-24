@@ -1,34 +1,69 @@
 {
     "categories": [
         {
-            "Title": "Best Picture",
+            "Title": "Best Supporting Actor",
             "Nominees": [
                 {
-                    "title": "Echoes of Eternity",
+                    "title": "Kieran Culkin",
+                    "country": "",
+                    "movie": "A Real Pain",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Yura Borisov",
+                    "country": "",
+                    "movie": "Anora",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Guy Pearce",
+                    "country": "",
+                    "movie": "The Brutalist",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Edward Norton",
+                    "country": "",
+                    "movie": "A Complete Unknown",
+                    "imgsrc": ""
+                },
+                {
+                    "title": "Jeremy Strong",
+                    "country": "",
+                    "movie": "The Apprentice",
+                    "imgsrc": ""
+                }
+            ]
+        },
+        {
+            "Title": "Best makeup and hairstyling",
+            "Nominees": [
+                {
+                    "title": "A different Man",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Shadows in the Wind",
+                    "title": "Emilia Pérez",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Fragments of Tomorrow",
+                    "title": "Nosferatu",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "The Last Horizon",
+                    "title": "The Substance",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Whispers of the Past",
+                    "title": "Wicked",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
@@ -36,104 +71,69 @@
             ]
         },
         {
-            "Title": "Best Director",
+            "Title": "Best custume design",
             "Nominees": [
                 {
-                    "title": "Aurora's Fall",
+                    "title": "A Complete Unknown",
                     "country": "",
-                    "movie": "Test Movie",
+                    "movie": "Arianne Phillips",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Crimson Tide",
+                    "title": "Conclave",
                     "country": "",
-                    "movie": "",
+                    "movie": "Lisy Christl",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Beyond the Stars",
+                    "title": "Gladiator II",
                     "country": "",
-                    "movie": "",
+                    "movie": "Janty Yates and David Crossman",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Veil of Secrets",
+                    "title": "Nosferatu",
                     "country": "",
-                    "movie": "",
+                    "movie": "Linda Muir",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Silent Echo",
+                    "title": "Wicked",
                     "country": "",
-                    "movie": "",
+                    "movie": "Paul Tazewell",
                     "imgsrc": ""
                 }
             ]
         },
         {
-            "Title": "Best Actor",
+            "Title": "Best Original Score",
             "Nominees": [
                 {
-                    "title": "Golden Mirage",
+                    "title": "The Brutalist",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Frozen Ashes",
+                    "title": "Conclave",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Silver Lining",
+                    "title": "Emilia Pérez",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Blazing Skies",
+                    "title": "Wicked",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
                 },
                 {
-                    "title": "Whispering Shadows",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
-            ]
-        },
-        {
-            "Title": "Best Actress",
-            "Nominees": [
-                {
-                    "title": "Broken Wings",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Moonlit Path",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Emerald Dreams",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Crimson Horizon",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Veiled Truths",
+                    "title": "The Wild Robot",
                     "country": "",
                     "movie": "",
                     "imgsrc": ""
