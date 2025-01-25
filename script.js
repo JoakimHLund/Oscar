@@ -24,7 +24,10 @@ function displayAllCategories(data) {
             nomineeCard.innerHTML = `
                 <img src="${nominee.imgsrc || '/img/default.png'}" alt="${nominee.title}">
                 <p>${nominee.title}</p>
+                ${nominee.movie ? `<p class="movie-title">(${nominee.movie})</p>` : ""}
+                ${nominee.link ? `<a href="${nominee.link}" target="_blank" class="read-more">Read more</a>` : ""}
             `;
+
 
             nomineeCard.addEventListener("click", () => {
                 selectNominee(nomineeCard, category.Title, nominee);

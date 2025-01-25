@@ -1,7 +1,43 @@
 {
     "categories": [
         {
-            "Title": "Best Supporting Actor",
+            "Title": "Actor in a Leading Role",
+            "Nominees": [
+              {
+                "title": "Adrien Brody",
+                "country": "",
+                "movie": "The Brutalist",
+                "imgsrc": "img/adrienbrody.jpg",
+                "link": "https://www.imdb.com/name/nm0004778/"
+              },
+              {
+                "title": "Timothée Chalamet",
+                "country": "",
+                "movie": "A Complete Unknown",
+                "imgsrc": "img/chalamet.jpg"
+              },
+              {
+                "title": "Colman Domingo",
+                "country": "",
+                "movie": "Sing Sing",
+                "imgsrc": ""
+              },
+              {
+                "title": "Ralph Fiennes",
+                "country": "",
+                "movie": "Conclave",
+                "imgsrc": ""
+              },
+              {
+                "title": "Sebastian Stan",
+                "country": "",
+                "movie": "The Apprentice",
+                "imgsrc": ""
+              }
+            ]
+        },
+        {
+            "Title": "Actor in a Supporting Role",
             "Nominees": [
                 {
                     "title": "Kieran Culkin",
@@ -36,319 +72,769 @@
             ]
         },
         {
-            "Title": "Best makeup and hairstyling",
+            "Title": "Actress in a Leading Role",
             "Nominees": [
-                {
-                    "title": "A different Man",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Emilia Pérez",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Nosferatu",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "The Substance",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Wicked",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Cynthia Erivo",
+                "country": "",
+                "movie": "Wicked",
+                "imgsrc": ""
+              },
+              {
+                "title": "Karla Sofía Gascón",
+                "country": "",
+                "movie": "Emilia Pérez",
+                "imgsrc": ""
+              },
+              {
+                "title": "Mikey Madison",
+                "country": "",
+                "movie": "Anora",
+                "imgsrc": ""
+              },
+              {
+                "title": "Demi Moore",
+                "country": "",
+                "movie": "The Substance",
+                "imgsrc": ""
+              },
+              {
+                "title": "Fernanda Torres",
+                "country": "",
+                "movie": "I'm Still Here",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best custume design",
+          },
+          {
+            "Title": "Actress in a Supporting Role",
             "Nominees": [
-                {
-                    "title": "A Complete Unknown",
-                    "country": "",
-                    "movie": "Arianne Phillips",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Conclave",
-                    "country": "",
-                    "movie": "Lisy Christl",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Gladiator II",
-                    "country": "",
-                    "movie": "Janty Yates and David Crossman",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Nosferatu",
-                    "country": "",
-                    "movie": "Linda Muir",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Wicked",
-                    "country": "",
-                    "movie": "Paul Tazewell",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Monica Barbaro",
+                "country": "",
+                "movie": "A Complete Unknown",
+                "imgsrc": ""
+              },
+              {
+                "title": "Ariana Grande",
+                "country": "",
+                "movie": "Wicked",
+                "imgsrc": ""
+              },
+              {
+                "title": "Felicity Jones",
+                "country": "",
+                "movie": "The Brutalist",
+                "imgsrc": ""
+              },
+              {
+                "title": "Isabella Rossellini",
+                "country": "",
+                "movie": "Conclave",
+                "imgsrc": ""
+              },
+              {
+                "title": "Zoe Saldaña",
+                "country": "",
+                "movie": "Emilia Pérez",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Original Score",
+          },
+          {
+            "Title": "Animated Feature Film",
             "Nominees": [
-                {
-                    "title": "The Brutalist",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Conclave",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Emilia Pérez",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Wicked",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "The Wild Robot",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Flow",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Inside Out 2",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Memoir of a Snail",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wallace & Gromit: Vengeance Most Fowl",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Wild Robot",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Supporting Actor",
+          },
+          {
+            "Title": "Animated Short Film",
             "Nominees": [
-                {
-                    "title": "Hidden Realms",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Golden Echoes",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Scarlet Veil",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Fading Lights",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Shattered Illusions",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Beautiful Men",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "In the Shadow of the Cypress",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Magic Candies",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wander to Wonder",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Yuck!",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Supporting Actress",
+          },
+          {
+            "Title": "Cinematography",
             "Nominees": [
-                {
-                    "title": "Distant Shores",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Velvet Skies",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Twilight's Embrace",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Silent Whispers",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Crimson Petals",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Dune: Part Two",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Maria",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Nosferatu",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Original Screenplay",
+          },
+          {
+            "Title": "Costume Design",
             "Nominees": [
-                {
-                    "title": "Fragments of Light",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Lost Horizons",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Silent Rain",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Golden Skies",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Echoing Dreams",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "A Complete Unknown",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Gladiator II",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Nosferatu",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Adapted Screenplay",
+          },
+          {
+            "Title": "Directing",
             "Nominees": [
-                {
-                    "title": "Veil of Time",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Frozen Echo",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Crimson Secrets",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Shattered Skies",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Hidden Echoes",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Anora",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "A Complete Unknown",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "The Substance",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Cinematography",
+          },
+          {
+            "Title": "Documentary Feature Film",
             "Nominees": [
-                {
-                    "title": "Twilight Shadows",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Echoes of Silence",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Blazing Dawn",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Veiled Horizons",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Shimmering Lights",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Black Box Diaries",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "No Other Land",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Porcelain War",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Soundtrack to a Coup d'Etat",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Sugarcane",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        },
-        {
-            "Title": "Best Animated Feature",
+          },
+          {
+            "Title": "Documentary Short Film",
             "Nominees": [
-                {
-                    "title": "Dreamweavers",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "The Enchanted Forest",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Whispering Winds",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Starlight Adventure",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                },
-                {
-                    "title": "Crimson Tales",
-                    "country": "",
-                    "movie": "",
-                    "imgsrc": ""
-                }
+              {
+                "title": "Death by Numbers",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "I Am Ready, Warden",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Incident",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Instruments of a Beating Heart",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Only Girl in the Orchestra",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
             ]
-        }
+          },
+          {
+            "Title": "Film Editing",
+            "Nominees": [
+              {
+                "title": "Anora",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "International Feature Film",
+            "Nominees": [
+              {
+                "title": "I'm Still Here",
+                "country": "Brazil",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Girl with the Needle",
+                "country": "Denmark",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "The Seed of the Sacred Fig",
+                "country": "Germany",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Flow",
+                "country": "Latvia",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Makeup and Hairstyling",
+            "Nominees": [
+              {
+                "title": "A Different Man",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Nosferatu",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Substance",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Music (Original Score)",
+            "Nominees": [
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Wild Robot",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Music (Original Song)",
+            "Nominees": [
+              {
+                "title": "El Mal",
+                "movie": "Emilia Pérez",
+                "country": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "The Journey",
+                "movie": "The Six Triple Eight",
+                "country": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Like A Bird",
+                "movie": "Sing Sing",
+                "country": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Mi Camino",
+                "movie": "Emilia Pérez",
+                "country": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Never Too Late",
+                "movie": "Elton John: Never Too Late",
+                "country": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Best Picture",
+            "Nominees": [
+              {
+                "title": "Anora",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "A Complete Unknown",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Dune: Part Two",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "I'm Still Here",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Nickel Boys",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Substance",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Production Design",
+            "Nominees": [
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Dune: Part Two",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Nosferatu",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Live Action Short Film",
+            "Nominees": [
+              {
+                "title": "A Lien",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Anuja",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "I'm Not a Robot",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Last Ranger",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Man Who Could Not Remain Silent",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Sound",
+            "Nominees": [
+              {
+                "title": "A Complete Unknown",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Dune: Part Two",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Wild Robot",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Visual Effects",
+            "Nominees": [
+              {
+                "title": "Alien: Romulus",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Better Man",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Dune: Part Two",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Kingdom of the Planet of the Apes",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Wicked",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Writing (Adapted Screenplay)",
+            "Nominees": [
+              {
+                "title": "A Complete Unknown",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Conclave",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Emilia Pérez",
+                "country": "",
+                "movie": "",
+                "imgsrc": "img/emiliaperez.jpg"
+              },
+              {
+                "title": "Nickel Boys",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "Sing Sing",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          },
+          {
+            "Title": "Writing (Original Screenplay)",
+            "Nominees": [
+              {
+                "title": "Anora",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Brutalist",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "A Real Pain",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "September 5",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              },
+              {
+                "title": "The Substance",
+                "country": "",
+                "movie": "",
+                "imgsrc": ""
+              }
+            ]
+          }
     ]
 }
