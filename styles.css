@@ -1,7 +1,8 @@
 /* General Page Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #000000; /* Black background */
+    color: #D6BB6E; /* Light Gold text */
     margin: 0;
     padding: 20px;
     text-align: center;
@@ -9,15 +10,15 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #D6BB6E; /* Light Gold */
     margin-bottom: 30px;
 }
 
 h2 {
-    color: #444;
+    color: #B69F66; /* Dark Gold */
     margin-top: 40px;
     margin-bottom: 20px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #D6BB6E; /* Light Gold border */
     padding-bottom: 10px;
     display: inline-block;
 }
@@ -38,14 +39,14 @@ h2 {
 
 /* Nominee Card Styling */
 .nominee-card {
-    background-color: #fff;
-    border: 2px solid #ccc;
+    background: linear-gradient(180deg, #D6BB6E, #B69F66); /* Gold gradient background */
+    border: 2px solid #B69F66; /* Dark Gold border */
     border-radius: 8px;
     width: 150px;
     padding: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* Subtle black shadow */
     cursor: pointer;
-    transition: transform 0.2s, border-color 0.2s;
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
 }
 
 .nominee-card img {
@@ -59,19 +60,27 @@ h2 {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: bold;
-    color: #555;
+    color: #000000; /* Black text */
 }
 
-/* Hover and Selected State */
+/* Hover State */
 .nominee-card:hover {
     transform: scale(1.05);
-    border-color: #888;
+    border-color: #D6BB6E; /* Light Gold border on hover */
 }
 
+/* Selected State */
 .nominee-card.selected {
-    border-color: #007BFF;
-    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+    border-color: #801B1D; /* Bold red border */
+    box-shadow: 0 0 15px rgba(128, 27, 29, 0.8); /* Red glow */
+    background: linear-gradient(180deg, #801B1D, #B69F66); /* Red-to-dark gold gradient */
+    transform: scale(1.1); /* Slightly larger for emphasis */
+    color: #ffffff; /* White text for distinction */
 }
+
+/* Selected Card Text */
+
+
 
 /* Sticky Footer */
 .footer {
@@ -79,9 +88,9 @@ h2 {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: #fff;
-    border-top: 1px solid #ccc;
-    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #000000; /* Black footer background */
+    border-top: 1px solid #B69F66; /* Dark Gold border */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -92,7 +101,7 @@ h2 {
 /* Category Selection Indicator */
 #selection-indicator {
     font-weight: bold;
-    color: #555;
+    color: #D6BB6E; /* Light Gold */
 }
 
 /* Selected Nominee Thumbnails */
@@ -108,7 +117,7 @@ h2 {
     width: 30px;
     height: 40px;
     border-radius: 5px;
-    border: 2px solid #007BFF;
+    border: 2px solid #801B1D; /* Red border */
     object-fit: cover;
 }
 
@@ -116,8 +125,8 @@ h2 {
 #submit-button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #ccc;
-    color: white;
+    background-color: #B69F66; /* Dark Gold */
+    color: #000000; /* Black text */
     border: none;
     border-radius: 5px;
     cursor: not-allowed;
@@ -126,12 +135,13 @@ h2 {
 }
 
 #submit-button.enabled {
-    background-color: #28a745;
+    background-color: #801B1D; /* Red for enabled */
+    color: #ffffff; /* White text */
     cursor: pointer;
 }
 
 #submit-button.enabled:hover {
-    background-color: #218838;
+    background-color: #B69F66; /* Dark Gold hover */
 }
 
 /* Responsive Design */
@@ -150,20 +160,22 @@ h2 {
         height: 30px;
     }
 }
+
 .movie-title {
     font-size: 0.8em;
-    color: #555;
-    margin-top:0;
+    color: #D6BB6E; /* Light Gold */
+    margin-top: 0;
     margin-bottom: 20px;
 }
+
 .read-more {
     font-size: 0.9em;
-    color: #007BFF;
+    color: #D6BB6E; /* Light Gold */
     text-decoration: underline;
     display: inline-block;
     margin-top: 5px;
 }
 
 .read-more:hover {
-    color: #0056b3;
+    color: #B69F66; /* Dark Gold hover */
 }

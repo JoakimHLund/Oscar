@@ -20,19 +20,19 @@
                 "title": "Colman Domingo",
                 "country": "",
                 "movie": "Sing Sing",
-                "imgsrc": ""
+                "imgsrc": "img/colmandomingo.jpg"
               },
               {
                 "title": "Ralph Fiennes",
                 "country": "",
                 "movie": "Conclave",
-                "imgsrc": ""
+                "imgsrc": "img/ralphfiennes.jpg"
               },
               {
                 "title": "Sebastian Stan",
                 "country": "",
                 "movie": "The Apprentice",
-                "imgsrc": ""
+                "imgsrc": "img/sebastianstan.jpg"
               }
             ]
         },
@@ -43,31 +43,31 @@
                     "title": "Kieran Culkin",
                     "country": "",
                     "movie": "A Real Pain",
-                    "imgsrc": ""
+                    "imgsrc": "img/kieranculkin.jpg"
                 },
                 {
                     "title": "Yura Borisov",
                     "country": "",
                     "movie": "Anora",
-                    "imgsrc": ""
+                    "imgsrc": "img/yuraborisov.jpg"
                 },
                 {
                     "title": "Guy Pearce",
                     "country": "",
                     "movie": "The Brutalist",
-                    "imgsrc": ""
+                    "imgsrc": "img/guypearce.jpg"
                 },
                 {
                     "title": "Edward Norton",
                     "country": "",
                     "movie": "A Complete Unknown",
-                    "imgsrc": ""
+                    "imgsrc": "img/edwardnorton.jpg"
                 },
                 {
                     "title": "Jeremy Strong",
                     "country": "",
                     "movie": "The Apprentice",
-                    "imgsrc": ""
+                    "imgsrc": "img/jeremystrong.jpg"
                 }
             ]
         },
@@ -78,31 +78,31 @@
                 "title": "Cynthia Erivo",
                 "country": "",
                 "movie": "Wicked",
-                "imgsrc": ""
+                "imgsrc": "img/cynthiaerivo.jpg"
               },
               {
                 "title": "Karla Sofía Gascón",
                 "country": "",
                 "movie": "Emilia Pérez",
-                "imgsrc": ""
+                "imgsrc": "img/karlasofiagascon.jpg"
               },
               {
                 "title": "Mikey Madison",
                 "country": "",
                 "movie": "Anora",
-                "imgsrc": ""
+                "imgsrc": "img/mikeymadison.jpg"
               },
               {
                 "title": "Demi Moore",
                 "country": "",
                 "movie": "The Substance",
-                "imgsrc": ""
+                "imgsrc": "img/demimoore.jpg"
               },
               {
                 "title": "Fernanda Torres",
                 "country": "",
                 "movie": "I'm Still Here",
-                "imgsrc": ""
+                "imgsrc": "img/fernandatorres.jpg"
               }
             ]
           },
@@ -113,31 +113,31 @@
                 "title": "Monica Barbaro",
                 "country": "",
                 "movie": "A Complete Unknown",
-                "imgsrc": ""
+                "imgsrc": "img/monicabarbaro.jpg"
               },
               {
                 "title": "Ariana Grande",
                 "country": "",
                 "movie": "Wicked",
-                "imgsrc": ""
+                "imgsrc": "img/arianagrande.jpg"
               },
               {
                 "title": "Felicity Jones",
                 "country": "",
                 "movie": "The Brutalist",
-                "imgsrc": ""
+                "imgsrc": "img/felicityjones.jpg"
               },
               {
                 "title": "Isabella Rossellini",
                 "country": "",
                 "movie": "Conclave",
-                "imgsrc": ""
+                "imgsrc": "img/isabellarossellini.jpg"
               },
               {
                 "title": "Zoe Saldaña",
                 "country": "",
                 "movie": "Emilia Pérez",
-                "imgsrc": ""
+                "imgsrc": "img/zoesaldana.jpg"
               }
             ]
           },
@@ -148,31 +148,31 @@
                 "title": "Flow",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/flow.jpg"
               },
               {
                 "title": "Inside Out 2",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/insideout2.jpg"
               },
               {
                 "title": "Memoir of a Snail",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/memoirofasnail.jpg"
               },
               {
                 "title": "Wallace & Gromit: Vengeance Most Fowl",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wallacengromit.jpg"
               },
               {
                 "title": "The Wild Robot",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thewildrobot.jpg"
               }
             ]
           },
@@ -183,31 +183,31 @@
                 "title": "Beautiful Men",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/beautifulmen.jpg"
               },
               {
                 "title": "In the Shadow of the Cypress",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/intheshadowofthecypress.jpg"
               },
               {
                 "title": "Magic Candies",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/magiccandies.jpg"
               },
               {
                 "title": "Wander to Wonder",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wandertowonder.jpg"
               },
               {
                 "title": "Yuck!",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/yuck.jpg"
               }
             ]
           },
@@ -218,13 +218,13 @@
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "Dune: Part Two",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/dune2.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -236,13 +236,13 @@
                 "title": "Maria",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/maria.jpg"
               },
               {
                 "title": "Nosferatu",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nosferatu.jpg"
               }
             ]
           },
@@ -253,31 +253,31 @@
                 "title": "A Complete Unknown",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/acompleteunknown.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Gladiator II",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/gladiator2.jpg"
               },
               {
                 "title": "Nosferatu",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nosferatu.jpg"
               },
               {
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -288,19 +288,19 @@
                 "title": "Anora",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/anora.jpg"
               },
               {
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "A Complete Unknown",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/acompleteunknown.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -312,7 +312,7 @@
                 "title": "The Substance",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thesubstance.jpg"
               }
             ]
           },
@@ -323,31 +323,31 @@
                 "title": "Black Box Diaries",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/blackboxdiaries.jpg"
               },
               {
                 "title": "No Other Land",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nootherland.jpg"
               },
               {
                 "title": "Porcelain War",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/porcelainwar.jpg"
               },
               {
                 "title": "Soundtrack to a Coup d'Etat",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/soundtrack.jpg"
               },
               {
                 "title": "Sugarcane",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/sugarcane.jpg"
               }
             ]
           },
@@ -358,31 +358,31 @@
                 "title": "Death by Numbers",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/deathbynumbers.jpg"
               },
               {
                 "title": "I Am Ready, Warden",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/iamreadywarden.jpg"
               },
               {
                 "title": "Incident",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/incident.jpg"
               },
               {
                 "title": "Instruments of a Beating Heart",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/instrumentsofabeatingheart.jpg"
               },
               {
                 "title": "The Only Girl in the Orchestra",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/onlygirlintheorchestra.jpg"
               }
             ]
           },
@@ -393,19 +393,19 @@
                 "title": "Anora",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/anora.jpg"
               },
               {
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -417,7 +417,7 @@
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -428,13 +428,13 @@
                 "title": "I'm Still Here",
                 "country": "Brazil",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/imstillhere.jpg"
               },
               {
                 "title": "The Girl with the Needle",
                 "country": "Denmark",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thegirlwiththeneedle.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -446,13 +446,13 @@
                 "title": "The Seed of the Sacred Fig",
                 "country": "Germany",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/theseedofthesacredfig.jpg"
               },
               {
                 "title": "Flow",
                 "country": "Latvia",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/flow.jpg"
               }
             ]
           },
@@ -463,7 +463,7 @@
                 "title": "A Different Man",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/adifferentman.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -475,19 +475,19 @@
                 "title": "Nosferatu",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nosferatu.jpg"
               },
               {
                 "title": "The Substance",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thesubstance.jpg"
               },
               {
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -498,13 +498,13 @@
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -516,13 +516,13 @@
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               },
               {
                 "title": "The Wild Robot",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thewildrobot.jpg"
               }
             ]
           },
@@ -539,13 +539,13 @@
                 "title": "The Journey",
                 "movie": "The Six Triple Eight",
                 "country": "",
-                "imgsrc": ""
+                "imgsrc": "img/thesixtrippleeight.jpg"
               },
               {
                 "title": "Like A Bird",
                 "movie": "Sing Sing",
                 "country": "",
-                "imgsrc": ""
+                "imgsrc": "img/singsing.jpg"
               },
               {
                 "title": "Mi Camino",
@@ -557,7 +557,7 @@
                 "title": "Never Too Late",
                 "movie": "Elton John: Never Too Late",
                 "country": "",
-                "imgsrc": ""
+                "imgsrc": "img/eltonjohn.jpg"
               }
             ]
           },
@@ -568,31 +568,31 @@
                 "title": "Anora",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/anora.jpg"
               },
               {
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "A Complete Unknown",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/acompleteunknown.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Dune: Part Two",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/dune2.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -604,25 +604,25 @@
                 "title": "I'm Still Here",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/imstillhere.jpg"
               },
               {
                 "title": "Nickel Boys",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nickelboys.jpg"
               },
               {
                 "title": "The Substance",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thesubstance.jpg"
               },
               {
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -633,31 +633,31 @@
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Dune: Part Two",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/dune2.jpg"
               },
               {
                 "title": "Nosferatu",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nosferatu.jpg"
               },
               {
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -703,13 +703,13 @@
                 "title": "A Complete Unknown",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/acompleteunknown.jpg"
               },
               {
                 "title": "Dune: Part Two",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/dune2.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -721,13 +721,13 @@
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               },
               {
                 "title": "The Wild Robot",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thewildrobot.jpg"
               }
             ]
           },
@@ -750,7 +750,7 @@
                 "title": "Dune: Part Two",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/dune2.jpg"
               },
               {
                 "title": "Kingdom of the Planet of the Apes",
@@ -762,7 +762,7 @@
                 "title": "Wicked",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/wicked.jpg"
               }
             ]
           },
@@ -773,13 +773,13 @@
                 "title": "A Complete Unknown",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/acompleteunknown.jpg"
               },
               {
                 "title": "Conclave",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/conclave.jpg"
               },
               {
                 "title": "Emilia Pérez",
@@ -791,13 +791,13 @@
                 "title": "Nickel Boys",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/nickelboys.jpg"
               },
               {
                 "title": "Sing Sing",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/singsing.jpg"
               }
             ]
           },
@@ -808,13 +808,13 @@
                 "title": "Anora",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/anora.jpg"
               },
               {
                 "title": "The Brutalist",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thebrutalist.jpg"
               },
               {
                 "title": "A Real Pain",
@@ -832,7 +832,7 @@
                 "title": "The Substance",
                 "country": "",
                 "movie": "",
-                "imgsrc": ""
+                "imgsrc": "img/thesubstance.jpg"
               }
             ]
           }
