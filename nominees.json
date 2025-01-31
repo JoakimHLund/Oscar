@@ -1,840 +1,840 @@
 {
-    "categories": [
-        {
-            "Title": "Actor in a Leading Role",
-            "Nominees": [
+  "categories": [
+      {
+          "Title": "Actor in a Leading Role",
+          "Nominees": [
+            {
+              "title": "Adrien Brody",
+              "country": "",
+              "movie": "The Brutalist",
+              "imgsrc": "img/adrienbrody.jpg",
+              "link": "https://www.imdb.com/name/nm0004778/"
+            },
+            {
+              "title": "Timothée Chalamet",
+              "country": "",
+              "movie": "A Complete Unknown",
+              "imgsrc": "img/chalamet.jpg"
+            },
+            {
+              "title": "Colman Domingo",
+              "country": "",
+              "movie": "Sing Sing",
+              "imgsrc": "img/colmandomingo.jpg"
+            },
+            {
+              "title": "Ralph Fiennes",
+              "country": "",
+              "movie": "Conclave",
+              "imgsrc": "img/ralphfiennes.jpg"
+            },
+            {
+              "title": "Sebastian Stan",
+              "country": "",
+              "movie": "The Apprentice",
+              "imgsrc": "img/sebastianstan.jpg"
+            }
+          ]
+      },
+      {
+          "Title": "Actor in a Supporting Role",
+          "Nominees": [
               {
-                "title": "Adrien Brody",
-                "country": "",
-                "movie": "The Brutalist",
-                "imgsrc": "img/adrienbrody.jpg",
-                "link": "https://www.imdb.com/name/nm0004778/"
+                  "title": "Kieran Culkin",
+                  "country": "",
+                  "movie": "A Real Pain",
+                  "imgsrc": "img/kieranculkin.jpg"
               },
               {
-                "title": "Timothée Chalamet",
-                "country": "",
-                "movie": "A Complete Unknown",
-                "imgsrc": "img/chalamet.jpg"
+                  "title": "Yura Borisov",
+                  "country": "",
+                  "movie": "Anora",
+                  "imgsrc": "img/yuraborisov.jpg"
               },
               {
-                "title": "Colman Domingo",
-                "country": "",
-                "movie": "Sing Sing",
-                "imgsrc": "img/colmandomingo.jpg"
+                  "title": "Guy Pearce",
+                  "country": "",
+                  "movie": "The Brutalist",
+                  "imgsrc": "img/guypearce.jpg"
               },
               {
-                "title": "Ralph Fiennes",
-                "country": "",
-                "movie": "Conclave",
-                "imgsrc": "img/ralphfiennes.jpg"
+                  "title": "Edward Norton",
+                  "country": "",
+                  "movie": "A Complete Unknown",
+                  "imgsrc": "img/edwardnorton.jpg"
               },
               {
-                "title": "Sebastian Stan",
-                "country": "",
-                "movie": "The Apprentice",
-                "imgsrc": "img/sebastianstan.jpg"
+                  "title": "Jeremy Strong",
+                  "country": "",
+                  "movie": "The Apprentice",
+                  "imgsrc": "img/jeremystrong.jpg"
               }
-            ]
+          ]
+      },
+      {
+          "Title": "Actress in a Leading Role",
+          "Nominees": [
+            {
+              "title": "Cynthia Erivo",
+              "country": "",
+              "movie": "Wicked",
+              "imgsrc": "img/cynthiaerivo.jpg"
+            },
+            {
+              "title": "Karla Sofía Gascón",
+              "country": "",
+              "movie": "Emilia Pérez",
+              "imgsrc": "img/karlasofiagascon.jpg"
+            },
+            {
+              "title": "Mikey Madison",
+              "country": "",
+              "movie": "Anora",
+              "imgsrc": "img/mikeymadison.jpg"
+            },
+            {
+              "title": "Demi Moore",
+              "country": "",
+              "movie": "The Substance",
+              "imgsrc": "img/demimoore.jpg"
+            },
+            {
+              "title": "Fernanda Torres",
+              "country": "",
+              "movie": "I'm Still Here",
+              "imgsrc": "img/fernandatorres.jpg"
+            }
+          ]
         },
         {
-            "Title": "Actor in a Supporting Role",
-            "Nominees": [
-                {
-                    "title": "Kieran Culkin",
-                    "country": "",
-                    "movie": "A Real Pain",
-                    "imgsrc": "img/kieranculkin.jpg"
-                },
-                {
-                    "title": "Yura Borisov",
-                    "country": "",
-                    "movie": "Anora",
-                    "imgsrc": "img/yuraborisov.jpg"
-                },
-                {
-                    "title": "Guy Pearce",
-                    "country": "",
-                    "movie": "The Brutalist",
-                    "imgsrc": "img/guypearce.jpg"
-                },
-                {
-                    "title": "Edward Norton",
-                    "country": "",
-                    "movie": "A Complete Unknown",
-                    "imgsrc": "img/edwardnorton.jpg"
-                },
-                {
-                    "title": "Jeremy Strong",
-                    "country": "",
-                    "movie": "The Apprentice",
-                    "imgsrc": "img/jeremystrong.jpg"
-                }
-            ]
+          "Title": "Actress in a Supporting Role",
+          "Nominees": [
+            {
+              "title": "Monica Barbaro",
+              "country": "",
+              "movie": "A Complete Unknown",
+              "imgsrc": "img/monicabarbaro.jpg"
+            },
+            {
+              "title": "Ariana Grande",
+              "country": "",
+              "movie": "Wicked",
+              "imgsrc": "img/arianagrande.jpg"
+            },
+            {
+              "title": "Felicity Jones",
+              "country": "",
+              "movie": "The Brutalist",
+              "imgsrc": "img/felicityjones.jpg"
+            },
+            {
+              "title": "Isabella Rossellini",
+              "country": "",
+              "movie": "Conclave",
+              "imgsrc": "img/isabellarossellini.jpg"
+            },
+            {
+              "title": "Zoe Saldaña",
+              "country": "",
+              "movie": "Emilia Pérez",
+              "imgsrc": "img/zoesaldana.jpg"
+            }
+          ]
         },
         {
-            "Title": "Actress in a Leading Role",
-            "Nominees": [
-              {
-                "title": "Cynthia Erivo",
-                "country": "",
-                "movie": "Wicked",
-                "imgsrc": "img/cynthiaerivo.jpg"
-              },
-              {
-                "title": "Karla Sofía Gascón",
-                "country": "",
-                "movie": "Emilia Pérez",
-                "imgsrc": "img/karlasofiagascon.jpg"
-              },
-              {
-                "title": "Mikey Madison",
-                "country": "",
-                "movie": "Anora",
-                "imgsrc": "img/mikeymadison.jpg"
-              },
-              {
-                "title": "Demi Moore",
-                "country": "",
-                "movie": "The Substance",
-                "imgsrc": "img/demimoore.jpg"
-              },
-              {
-                "title": "Fernanda Torres",
-                "country": "",
-                "movie": "I'm Still Here",
-                "imgsrc": "img/fernandatorres.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Actress in a Supporting Role",
-            "Nominees": [
-              {
-                "title": "Monica Barbaro",
-                "country": "",
-                "movie": "A Complete Unknown",
-                "imgsrc": "img/monicabarbaro.jpg"
-              },
-              {
-                "title": "Ariana Grande",
-                "country": "",
-                "movie": "Wicked",
-                "imgsrc": "img/arianagrande.jpg"
-              },
-              {
-                "title": "Felicity Jones",
-                "country": "",
-                "movie": "The Brutalist",
-                "imgsrc": "img/felicityjones.jpg"
-              },
-              {
-                "title": "Isabella Rossellini",
-                "country": "",
-                "movie": "Conclave",
-                "imgsrc": "img/isabellarossellini.jpg"
-              },
-              {
-                "title": "Zoe Saldaña",
-                "country": "",
-                "movie": "Emilia Pérez",
-                "imgsrc": "img/zoesaldana.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Animated Feature Film",
-            "Nominees": [
-              {
-                "title": "Flow",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/flow.jpg"
-              },
-              {
-                "title": "Inside Out 2",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/insideout2.jpg"
-              },
-              {
-                "title": "Memoir of a Snail",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/memoirofasnail.jpg"
-              },
-              {
-                "title": "Wallace & Gromit: Vengeance Most Fowl",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wallacengromit.jpg"
-              },
-              {
-                "title": "The Wild Robot",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thewildrobot.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Animated Short Film",
-            "Nominees": [
-              {
-                "title": "Beautiful Men",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/beautifulmen.jpg"
-              },
-              {
-                "title": "In the Shadow of the Cypress",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/intheshadowofthecypress.jpg"
-              },
-              {
-                "title": "Magic Candies",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/magiccandies.jpg"
-              },
-              {
-                "title": "Wander to Wonder",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wandertowonder.jpg"
-              },
-              {
-                "title": "Yuck!",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/yuck.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Cinematography",
-            "Nominees": [
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "Dune: Part Two",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/dune2.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Maria",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/maria.jpg"
-              },
-              {
-                "title": "Nosferatu",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nosferatu.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Costume Design",
-            "Nominees": [
-              {
-                "title": "A Complete Unknown",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/acompleteunknown.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Gladiator II",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/gladiator2.jpg"
-              },
-              {
-                "title": "Nosferatu",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nosferatu.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Directing",
-            "Nominees": [
-              {
-                "title": "Anora",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/anora.jpg"
-              },
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "A Complete Unknown",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/acompleteunknown.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "The Substance",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thesubstance.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Documentary Feature Film",
-            "Nominees": [
-              {
-                "title": "Black Box Diaries",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/blackboxdiaries.jpg"
-              },
-              {
-                "title": "No Other Land",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nootherland.jpg"
-              },
-              {
-                "title": "Porcelain War",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/porcelainwar.jpg"
-              },
-              {
-                "title": "Soundtrack to a Coup d'Etat",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/soundtrack.jpg"
-              },
-              {
-                "title": "Sugarcane",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/sugarcane.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Documentary Short Film",
-            "Nominees": [
-              {
-                "title": "Death by Numbers",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/deathbynumbers.jpg"
-              },
-              {
-                "title": "I Am Ready, Warden",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/iamreadywarden.jpg"
-              },
-              {
-                "title": "Incident",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/incident.jpg"
-              },
-              {
-                "title": "Instruments of a Beating Heart",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/instrumentsofabeatingheart.jpg"
-              },
-              {
-                "title": "The Only Girl in the Orchestra",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/onlygirlintheorchestra.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Film Editing",
-            "Nominees": [
-              {
-                "title": "Anora",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/anora.jpg"
-              },
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "International Feature Film",
-            "Nominees": [
-              {
-                "title": "I'm Still Here",
-                "country": "Brazil",
-                "movie": "",
-                "imgsrc": "img/imstillhere.jpg"
-              },
-              {
-                "title": "The Girl with the Needle",
-                "country": "Denmark",
-                "movie": "",
-                "imgsrc": "img/thegirlwiththeneedle.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "The Seed of the Sacred Fig",
-                "country": "Germany",
-                "movie": "",
-                "imgsrc": "img/theseedofthesacredfig.jpg"
-              },
-              {
-                "title": "Flow",
-                "country": "Latvia",
-                "movie": "",
-                "imgsrc": "img/flow.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Makeup and Hairstyling",
-            "Nominees": [
-              {
-                "title": "A Different Man",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/adifferentman.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Nosferatu",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nosferatu.jpg"
-              },
-              {
-                "title": "The Substance",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thesubstance.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Music (Original Score)",
-            "Nominees": [
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              },
-              {
-                "title": "The Wild Robot",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thewildrobot.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Music (Original Song)",
-            "Nominees": [
-              {
-                "title": "El Mal",
-                "movie": "Emilia Pérez",
-                "country": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "The Journey",
-                "movie": "The Six Triple Eight",
-                "country": "",
-                "imgsrc": "img/thesixtrippleeight.jpg"
-              },
-              {
-                "title": "Like A Bird",
-                "movie": "Sing Sing",
-                "country": "",
-                "imgsrc": "img/singsing.jpg"
-              },
-              {
-                "title": "Mi Camino",
-                "movie": "Emilia Pérez",
-                "country": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Never Too Late",
-                "movie": "Elton John: Never Too Late",
-                "country": "",
-                "imgsrc": "img/eltonjohn.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Best Picture",
-            "Nominees": [
-              {
-                "title": "Anora",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/anora.jpg"
-              },
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "A Complete Unknown",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/acompleteunknown.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Dune: Part Two",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/dune2.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "I'm Still Here",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/imstillhere.jpg"
-              },
-              {
-                "title": "Nickel Boys",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nickelboys.jpg"
-              },
-              {
-                "title": "The Substance",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thesubstance.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Production Design",
-            "Nominees": [
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Dune: Part Two",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/dune2.jpg"
-              },
-              {
-                "title": "Nosferatu",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nosferatu.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Live Action Short Film",
-            "Nominees": [
-              {
-                "title": "A Lien",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "Anuja",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "I'm Not a Robot",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "The Last Ranger",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "The Man Who Could Not Remain Silent",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              }
-            ]
-          },
-          {
-            "Title": "Sound",
-            "Nominees": [
-              {
-                "title": "A Complete Unknown",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/acompleteunknown.jpg"
-              },
-              {
-                "title": "Dune: Part Two",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/dune2.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              },
-              {
-                "title": "The Wild Robot",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thewildrobot.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Visual Effects",
-            "Nominees": [
-              {
-                "title": "Alien: Romulus",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "Better Man",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "Dune: Part Two",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/dune2.jpg"
-              },
-              {
-                "title": "Kingdom of the Planet of the Apes",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "Wicked",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/wicked.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Writing (Adapted Screenplay)",
-            "Nominees": [
-              {
-                "title": "A Complete Unknown",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/acompleteunknown.jpg"
-              },
-              {
-                "title": "Conclave",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/conclave.jpg"
-              },
-              {
-                "title": "Emilia Pérez",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/emiliaperez.jpg"
-              },
-              {
-                "title": "Nickel Boys",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/nickelboys.jpg"
-              },
-              {
-                "title": "Sing Sing",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/singsing.jpg"
-              }
-            ]
-          },
-          {
-            "Title": "Writing (Original Screenplay)",
-            "Nominees": [
-              {
-                "title": "Anora",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/anora.jpg"
-              },
-              {
-                "title": "The Brutalist",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thebrutalist.jpg"
-              },
-              {
-                "title": "A Real Pain",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "September 5",
-                "country": "",
-                "movie": "",
-                "imgsrc": ""
-              },
-              {
-                "title": "The Substance",
-                "country": "",
-                "movie": "",
-                "imgsrc": "img/thesubstance.jpg"
-              }
-            ]
-          }
-    ]
+          "Title": "Animated Feature Film",
+          "Nominees": [
+            {
+              "title": "Flow",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/flow.jpg"
+            },
+            {
+              "title": "Inside Out 2",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/insideout2.jpg"
+            },
+            {
+              "title": "Memoir of a Snail",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/memoirofasnail.jpg"
+            },
+            {
+              "title": "Wallace & Gromit: Vengeance Most Fowl",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wallacengromit.jpg"
+            },
+            {
+              "title": "The Wild Robot",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thewildrobot.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Animated Short Film",
+          "Nominees": [
+            {
+              "title": "Beautiful Men",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/beautifulmen.jpg"
+            },
+            {
+              "title": "In the Shadow of the Cypress",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/intheshadowofthecypress.jpg"
+            },
+            {
+              "title": "Magic Candies",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/magiccandies.jpg"
+            },
+            {
+              "title": "Wander to Wonder",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wandertowonder.jpg"
+            },
+            {
+              "title": "Yuck!",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/yuck.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Cinematography",
+          "Nominees": [
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "Dune: Part Two",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/dune2.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Maria",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/maria.jpg"
+            },
+            {
+              "title": "Nosferatu",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nosferatu.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Costume Design",
+          "Nominees": [
+            {
+              "title": "A Complete Unknown",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/acompleteunknown.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Gladiator II",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/gladiator2.jpg"
+            },
+            {
+              "title": "Nosferatu",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nosferatu.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Directing",
+          "Nominees": [
+            {
+              "title": "Anora",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/anora.jpg"
+            },
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "A Complete Unknown",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/acompleteunknown.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "The Substance",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thesubstance.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Documentary Feature Film",
+          "Nominees": [
+            {
+              "title": "Black Box Diaries",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/blackboxdiaries.jpg"
+            },
+            {
+              "title": "No Other Land",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nootherland.jpg"
+            },
+            {
+              "title": "Porcelain War",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/porcelainwar.jpg"
+            },
+            {
+              "title": "Soundtrack to a Coup d'Etat",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/soundtrack.jpg"
+            },
+            {
+              "title": "Sugarcane",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/sugarcane.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Documentary Short Film",
+          "Nominees": [
+            {
+              "title": "Death by Numbers",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/deathbynumbers.jpg"
+            },
+            {
+              "title": "I Am Ready, Warden",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/iamreadywarden.jpg"
+            },
+            {
+              "title": "Incident",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/incident.jpg"
+            },
+            {
+              "title": "Instruments of a Beating Heart",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/instrumentsofabeatingheart.jpg"
+            },
+            {
+              "title": "The Only Girl in the Orchestra",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/onlygirlintheorchestra.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Film Editing",
+          "Nominees": [
+            {
+              "title": "Anora",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/anora.jpg"
+            },
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "International Feature Film",
+          "Nominees": [
+            {
+              "title": "I'm Still Here",
+              "country": "Brazil",
+              "movie": "",
+              "imgsrc": "img/imstillhere.jpg"
+            },
+            {
+              "title": "The Girl with the Needle",
+              "country": "Denmark",
+              "movie": "",
+              "imgsrc": "img/thegirlwiththeneedle.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "The Seed of the Sacred Fig",
+              "country": "Germany",
+              "movie": "",
+              "imgsrc": "img/theseedofthesacredfig.jpg"
+            },
+            {
+              "title": "Flow",
+              "country": "Latvia",
+              "movie": "",
+              "imgsrc": "img/flow.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Makeup and Hairstyling",
+          "Nominees": [
+            {
+              "title": "A Different Man",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/adifferentman.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Nosferatu",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nosferatu.jpg"
+            },
+            {
+              "title": "The Substance",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thesubstance.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Music (Original Score)",
+          "Nominees": [
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            },
+            {
+              "title": "The Wild Robot",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thewildrobot.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Music (Original Song)",
+          "Nominees": [
+            {
+              "title": "El Mal",
+              "movie": "Emilia Pérez",
+              "country": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "The Journey",
+              "movie": "The Six Triple Eight",
+              "country": "",
+              "imgsrc": "img/thesixtrippleeight.jpg"
+            },
+            {
+              "title": "Like A Bird",
+              "movie": "Sing Sing",
+              "country": "",
+              "imgsrc": "img/singsing.jpg"
+            },
+            {
+              "title": "Mi Camino",
+              "movie": "Emilia Pérez",
+              "country": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Never Too Late",
+              "movie": "Elton John: Never Too Late",
+              "country": "",
+              "imgsrc": "img/eltonjohn.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Best Picture",
+          "Nominees": [
+            {
+              "title": "Anora",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/anora.jpg"
+            },
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "A Complete Unknown",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/acompleteunknown.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Dune: Part Two",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/dune2.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "I'm Still Here",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/imstillhere.jpg"
+            },
+            {
+              "title": "Nickel Boys",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nickelboys.jpg"
+            },
+            {
+              "title": "The Substance",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thesubstance.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Production Design",
+          "Nominees": [
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Dune: Part Two",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/dune2.jpg"
+            },
+            {
+              "title": "Nosferatu",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nosferatu.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Live Action Short Film",
+          "Nominees": [
+            {
+              "title": "A Lien",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "Anuja",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "I'm Not a Robot",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "The Last Ranger",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "The Man Who Could Not Remain Silent",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            }
+          ]
+        },
+        {
+          "Title": "Sound",
+          "Nominees": [
+            {
+              "title": "A Complete Unknown",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/acompleteunknown.jpg"
+            },
+            {
+              "title": "Dune: Part Two",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/dune2.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            },
+            {
+              "title": "The Wild Robot",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thewildrobot.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Visual Effects",
+          "Nominees": [
+            {
+              "title": "Alien: Romulus",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "Better Man",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "Dune: Part Two",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/dune2.jpg"
+            },
+            {
+              "title": "Kingdom of the Planet of the Apes",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "Wicked",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/wicked.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Writing (Adapted Screenplay)",
+          "Nominees": [
+            {
+              "title": "A Complete Unknown",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/acompleteunknown.jpg"
+            },
+            {
+              "title": "Conclave",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/conclave.jpg"
+            },
+            {
+              "title": "Emilia Pérez",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/emiliaperez.jpg"
+            },
+            {
+              "title": "Nickel Boys",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/nickelboys.jpg"
+            },
+            {
+              "title": "Sing Sing",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/singsing.jpg"
+            }
+          ]
+        },
+        {
+          "Title": "Writing (Original Screenplay)",
+          "Nominees": [
+            {
+              "title": "Anora",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/anora.jpg"
+            },
+            {
+              "title": "The Brutalist",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thebrutalist.jpg"
+            },
+            {
+              "title": "A Real Pain",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "September 5",
+              "country": "",
+              "movie": "",
+              "imgsrc": ""
+            },
+            {
+              "title": "The Substance",
+              "country": "",
+              "movie": "",
+              "imgsrc": "img/thesubstance.jpg"
+            }
+          ]
+        }
+  ]
 }

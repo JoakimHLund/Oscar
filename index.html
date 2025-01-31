@@ -1,22 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pick a Nominee</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <title>Avinor Oscar Predictions</title>
+  <link rel="stylesheet" href="styles.css" />
+
+  <style>
+    /* Increase text size for paragraphs and list items */
+    .rules-container p,
+    .rules-container li {
+      font-size: 1.2em; /* Increase or adjust as desired */
+      line-height: 1.5;
+    }
+
+    /* Remove bullets and reset any default padding */
+    .rules-container ul {
+      list-style-type: none;
+      padding-left: 0;
+      margin: 20px 0;
+    }
+
+    /* Space between each list item */
+    .rules-container li {
+      margin: 10px 0;
+    }
+
+    /* Style for the "Make Your Predictions" button */
+    #start-predictions-btn {
+      margin-top: 30px;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      background-color: #B69F66; /* Dark gold */
+      color: #000000;           /* Black text */
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    #start-predictions-btn:hover {
+      background-color: #801B1D; /* Red hover */
+      color: #ffffff;           /* White text on hover */
+    }
+  </style>
 </head>
 <body>
-    <h1>Pick Your Nominees</h1>
-    <div id="categories-container"></div>
+  <h1>Welcome to Avinor’s Oscar Predictions</h1>
 
-    <!-- Sticky Footer -->
-    <div class="footer">
-        <div id="selection-indicator">Selected: 0/0</div>
-        <div class="selected-thumbnails" id="selected-thumbnails"></div>
-        <button id="submit-button" disabled>Submit Choices</button>
-    </div>
+  <div class="rules-container">
+    <p>🏆 Get ready for the glitz and glamour of the Oscars! Here’s how our predictions game works:</p>
 
-    <script src="script.js"></script>
+    <ul>
+      <li>You’ll predict the winner in each of the <strong>26 categories</strong>.</li>
+      <li>If your predicted nominee wins, you score <strong>15 points</strong>.</li>
+      <li>
+        <em>For every other person</em> who picked the same nominee,
+        your total for that category drops by <strong>1 point</strong>, down to a minimum of
+        <strong>5 points</strong>. (If 10 or more people choose the same nominee, it’s worth only 5 points.)
+      </li>
+      <li>
+        The Oscars take place on <strong>Sunday, March 2nd</strong>. We’ll gather on
+        <strong>March 3rd during lunch</strong> to reveal results and celebrate!
+      </li>
+      <li>Submissions are allowed until <strong>March 1st</strong>. Don’t miss the deadline!</li>
+    </ul>
+
+    <p>May the best movie buff win! 🎬🍿</p>
+  </div>
+
+  <!-- Button linking to your predictions page -->
+  <button
+    id="start-predictions-btn"
+    onclick="window.location.href='nominees.html'">
+    Make Your Predictions
+  </button>
 </body>
 </html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Pick a Nominee</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Firebase App (the core Firebase SDK) -->
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-app-compat.js"></script>
+    <!-- Add Firebase products that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-firestore-compat.js"></script>
+    <!-- Link to the external JavaScript file -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>Pick Your Nominees</h1>
+    <div id="categories-container"></div>
+
+    <!-- Sticky Footer -->
+    <div class="footer">
+        <div id="selection-indicator">Selected: 0/0</div>
+        <div class="selected-thumbnails" id="selected-thumbnails"></div>
+        <button id="submit-button" disabled>Submit Choices</button>
+    </div>
+
+    <!-- MODAL (Hidden by default) -->
+    <div id="submission-modal" class="modal">
+      <div class="modal-content">
+        <span class="close" id="close-modal">&times;</span>
+        <h2>Please fill in your details</h2>
+        <form id="submission-form">
+          <label for="userName">Name:</label>
+          <input type="text" id="userName" name="userName" required />
+
+          <br />
+
+          <label for="team">Team/Avdeling:</label>
+          <input type="text" id="team" name="team" required />
+
+          <br />
+
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </div>
+</body>
+</html>
