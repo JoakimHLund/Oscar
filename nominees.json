@@ -667,31 +667,31 @@
               "title": "A Lien",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/alien.jpg"
             },
             {
               "title": "Anuja",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/anuja.jpg"
             },
             {
               "title": "I'm Not a Robot",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/imnotarobot.jpg"
             },
             {
               "title": "The Last Ranger",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/lastranger.jpg"
             },
             {
               "title": "The Man Who Could Not Remain Silent",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/themanwhocouldnotremainsilent.jpg"
             }
           ]
         },
@@ -737,13 +737,13 @@
               "title": "Alien: Romulus",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/alienromulus.jpg"
             },
             {
               "title": "Better Man",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/betterman.jpg"
             },
             {
               "title": "Dune: Part Two",
@@ -755,7 +755,7 @@
               "title": "Kingdom of the Planet of the Apes",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/planetofapes.jpg"
             },
             {
               "title": "Wicked",
@@ -819,13 +819,13 @@
               "title": "A Real Pain",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/arealpain.jpg"
             },
             {
               "title": "September 5",
               "country": "",
               "movie": "",
-              "imgsrc": ""
+              "imgsrc": "img/september5.jpg"
             },
             {
               "title": "The Substance",
