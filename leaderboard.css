@@ -1,0 +1,76 @@
+/* Leaderboard Table */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #222;
+    box-shadow: 0 4px 8px rgba(214, 187, 110, 0.5);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+thead {
+    background-color: #801B1D;
+    color: #D6BB6E;
+}
+
+tbody {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+tr {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+td {
+    flex: 1;
+    text-align: center;
+    padding: 8px;
+}
+
+/* Movement Icons */
+.movement-icon {
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+/* Button Styling */
+.button-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.button-container button {
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #801B1D;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.button-container button:hover {
+    background-color: #B69F66;
+    color: #000000;
+    transform: scale(1.05);
+}
+
+/* Transition effect for rows */
+tbody.transition tr {
+    transition: transform 0.5s ease-in-out;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <!-- Firebase App (the core Firebase SDK) -->
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-app-compat.js"></script>
+    <!-- Add Firebase products that you want to use -->
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-firestore-compat.js"></script>
+    <script defer src="leaderboard.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="leaderboard.css">
+</head>
+<body>
+    <div class="leaderboard-header">
+        <h1>Leaderboard</h1>
+        <span id="winners-count">Winners Selected: 0/23</span>
+    </div>
+
+    <div class="button-container">
+        <button id="update-leaderboard">Update Leaderboard</button>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Correct Guesses</th>
+                <th>Points</th>
+            </tr>
+        </thead>
+        <tbody id="leaderboard-body">
+            <!-- Data will be inserted here -->
+        </tbody>
+    </table>
+
+    <div class="button-container">
+        <button id="pick-next-winner">Pick Next Winner</button>
+    </div>
+    
+</body>
+</html>

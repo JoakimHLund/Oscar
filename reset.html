@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reset & Clear Winners</title>
+    <!-- Firebase App (the core Firebase SDK) -->
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.8.1/firebase-firestore-compat.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #D6BB6E;
+            text-align: center;
+            padding: 50px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        .button-container {
+            margin: 20px;
+        }
+
+        button {
+            padding: 12px 20px;
+            font-size: 18px;
+            font-weight: bold;
+            background-color: #801B1D;
+            color: #ffffff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            margin: 10px;
+        }
+
+        button:hover {
+            background-color: #B69F66;
+            color: #000000;
+            transform: scale(1.05);
+        }
+
+        p {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Reset Leaderboard & Winners</h1>
+
+    <div class="button-container">
+        <button id="reset-scores">Reset Scores</button>
+        <button id="clear-winners">Clear Winners</button>
+    </div>
+
+    <p id="status"></p>
+
+    <script>
+        const firebaseConfig = {
+            apiKey: "AIzaSyCvlg9kqWYWjkgKksSWplpxMMRdq385fhE",
+            authDomain: "oscars-64ae7.firebaseapp.com",
+            projectId: "oscars-64ae7",
+            storageBucket: "oscars-64ae7.firebasestorage.app",
+            messagingSenderId: "198277828229",
+            appId: "1:198277828229:web:a90e3436be32486df423ec"
+        };
+
+        // Initialize Firebase
+        const app = firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore(app);
+
+        document.getElementById("reset-scores").addEventListener("click", () => {
+            if (!confirm("Are you sure you want to reset all scores?")) return;
+
+            document.getElementById("status").textContent = "Resetting scores...";
+
+            db.collection("users").get().then(snapshot => {
+                const batch = db.batch();
+
+                snapshot.forEach(doc => {
+                    const userRef = db.collection("users").doc(doc.id);
+                    batch.update(userRef, {
+                        correctGuesses: 0,
+                        points: 0
+                    });
+                });
+
+                return batch.commit();
+            }).then(() => {
+                document.getElementById("status").textContent = "All scores have been reset!";
+            }).catch(error => {
+                console.error("Error resetting scores:", error);
+                document.getElementById("status").textContent = "Error resetting scores!";
+            });
+        });
+
+        document.getElementById("clear-winners").addEventListener("click", () => {
+            if (!confirm("Are you sure you want to clear all winners?")) return;
+
+            document.getElementById("status").textContent = "Clearing winners...";
+
+            db.collection("winners").get().then(snapshot => {
+                const batch = db.batch();
+
+                snapshot.forEach(doc => {
+                    batch.delete(db.collection("winners").doc(doc.id));
+                });
+
+                return batch.commit();
+            }).then(() => {
+                document.getElementById("status").textContent = "All winners have been cleared!";
+            }).catch(error => {
+                console.error("Error clearing winners:", error);
+                document.getElementById("status").textContent = "Error clearing winners!";
+            });
+        });
+    </script>
+
+</body>
+</html>

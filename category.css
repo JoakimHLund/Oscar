@@ -1,0 +1,112 @@
+/* Category Container */
+#category-container {
+    text-align: center;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 1200px;
+}
+
+/* Grid Layout for Nominees */
+.nominees-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    align-items: start;
+    margin-top: 20px;
+}
+
+/* Wrapper for Nominee Card and Picks */
+.nominee-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 180px;
+}
+
+/* Nominee Card Styling */
+.nominee-card {
+    background: linear-gradient(180deg, #D6BB6E, #B69F66);
+    border: 2px solid #B69F66;
+    border-radius: 8px;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+}
+
+/* Grayed Out Cards */
+.nominee-card.grayed-out {
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+/* Highlight Selected Winner */
+.nominee-card.selected-winner {
+    border-color: #801B1D;
+    box-shadow: 0 0 10px rgba(128, 27, 29, 0.8);
+}
+
+/* Hover Effect */
+.nominee-card:hover {
+    transform: scale(1.05);
+    border-color: #D6BB6E;
+}
+
+/* User Picks List */
+.user-pick-list {
+    background-color: #222;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 8px;
+    border: 2px solid #B69F66;
+    box-shadow: 0 2px 5px rgba(214, 187, 110, 0.5);
+    text-align: center;
+}
+
+.user-pick-list strong {
+    display: block;
+    color: #D6BB6E;
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.user-pick-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.user-pick-list li {
+    color: #fff;
+    font-size: 0.9rem;
+    padding: 2px 0;
+}
+
+/* Button Container */
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Leaderboard Button */
+.button-container button {
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #801B1D; /* Bold red */
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.button-container button:hover {
+    background-color: #B69F66; /* Gold on hover */
+    color: #000000;
+    transform: scale(1.05);
+}
